@@ -369,7 +369,7 @@ A freemium license restricts some open source freedoms to commercial terms. For 
 #### 缺點
 
 * 只適合大專案
-* 由於IRS的限制 (多為貿易聯盟，而非非營利基金會)，專案能做什麼會有所限制
+* 由於IRS的限制 (多為貿易聯盟，而不是非營利基金會)，專案能做什麼會有所限制
 * 需要大量技術社群的努力和各種技能，而且之後仍舊需要努力獲得募款
 
 #### 案例探討
