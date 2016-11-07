@@ -377,7 +377,7 @@ A freemium license restricts some open source freedoms to commercial terms. For 
 * [Ruby Together](http://rubytogether.org/)
 * [Python Software Foundation](https://www.python.org/psf/)
 * [Node.js Foundation](https://www.sitepoint.com/goodbye-joyent-hello-node-js-foundation/)
-
+* 譯者補充: [OpenResty](http://openresty.org/en/)是華人世界第一個由開放原始碼專案而驅使建立的基金會。最初OpenResty從Nginx訂製發佈版本開始的簡單開源項目，到2016年11月中旬通過審核，在香港成立OpenResty Software Foundation
 
 ## 風險投資
 
