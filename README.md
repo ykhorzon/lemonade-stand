@@ -22,10 +22,11 @@
 9. [補貼](#補貼)
 10. [咨詢服務](#咨詢服務)
 11. [SaaS](#saas)
-12. [雙重授權條款](#雙重授權條款)
-13. [開放核心](#開放核心)
-14. [基金會](#基金會)
-15. [風險投資](#風險投資)
+12. [免費增值授權](#免費增值授權)
+13. [雙重授權條款](#雙重授權條款)
+14. [開放核心](#開放核心)
+15. [基金會](#基金會)
+16. [風險投資](#風險投資)
 
 附錄: [貢獻](#貢獻) // [授權條款](#授權條款)
 
@@ -302,12 +303,12 @@ A freemium license restricts some open source freedoms to commercial terms. For 
 * 如果操作得當，有機會延展生意的規模
 * 適合終端使用者產品
 
-#### Cons
+#### 缺點
 
 * 並非真正的開放原始碼
 * 仍是新的待驗證的領域
 
-#### Case Studies
+#### 案例探討
 
 * [Fair Source](https://fair.io/), 為 [Sourcegraph](https://sourcegraph.com/) 所用
 * [BSL (Business Source License)](https://mariadb.com/bsl-faq-adopting), 為 [MariaDB](https://mariadb.com/) 所用
