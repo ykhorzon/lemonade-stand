@@ -294,8 +294,7 @@ SaaS 即 [軟體即服務(Software as a Service)](https://en.wikipedia.org/wiki/
 
 「免費增值」(Freemium)授權就意義來說，並不是我們所謂的開放原始碼，因為這種授權不符合開放原始碼授權規範的條件(像是原始程式碼不能兼具公開存取且允許自由散佈和修改)。不過，「免費增值」仍可試作和開放原始碼相關。
 
-A freemium license restricts some open source freedoms to commercial terms. For example, they might make the source code visible, but require a commercial license to use the code.
-「免費增值」授權方式限制了某些開放原始碼給予的自由，以便達到特定商業目的，比方說，允許使用者閱讀原始程式碼，但需要特定的商業授權才能實際使用程式碼。
+這種方式限制了某些開放原始碼授權原本該給予的自由，以便達到特定商業目的，比方說，允許使用者閱讀原始程式碼，但需要特定的商業授權才能實際使用程式碼。
 
 #### 優點
 
