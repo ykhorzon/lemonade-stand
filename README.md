@@ -358,7 +358,7 @@ A freemium license restricts some open source freedoms to commercial terms. For 
 
 ## 基金會與協會
 
-[基金會](https://en.wikipedia.org/wiki/Foundation_&#40;nonprofit&#41;)是可以接收和支出的合法法人實體。鑒於其目的並非獲得利潤，因此可以更好保持中立地管理專案。在美國，基金會可以是501c3 (非盈利) 或501c6 (貿易聯盟) ，許多軟體基金會都是貿易聯盟，因為非盈利基金會要求展示出慈善的目的，這在軟體開發中比較困難。
+[基金會](https://en.wikipedia.org/wiki/Foundation_&#40;nonprofit&#41;)是可以接收和支出的合法法人實體。鑒於其目的並非獲得利潤，因此可以更好保持中立地管理專案。在美國，基金會可以是501(c)(3) (非盈利) 或501(c)(6) (貿易聯盟) ，許多軟體基金會都是貿易聯盟，因為非盈利基金會要求展示出慈善的目的，這在軟體開發中比較困難。
 
 #### 優點
 
@@ -369,7 +369,7 @@ A freemium license restricts some open source freedoms to commercial terms. For 
 #### 缺點
 
 * 只適合大專案
-* 由於IRS的限制 (many do 501(c)(6) instead of 501(c)(3))，專案能做什麼會有所限制
+* 由於IRS的限制 (多為貿易聯盟，而非非營利基金會)，專案能做什麼會有所限制
 * 需要大量技術社群的努力和各種技能，而且之後仍舊需要努力獲得募款
 
 #### 案例探討
