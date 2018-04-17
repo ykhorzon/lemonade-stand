@@ -53,6 +53,7 @@
 * [Twisted](https://twistedmatrix.com/trac/wiki/WhyDonate)
 * [Git](https://git-scm.com/sfc)
 * [Transmission](https://www.transmissionbt.com/)
+* [ChatSecure](https://chatsecure.org/blog/sustainable-open-source-starts-with-you/)
 
 ## 懸賞
 
@@ -68,13 +69,18 @@
 #### 缺點
 
 * 會在專案中產生不合理的激勵機制 (低質量的pull request可能會降低專案的專注程度)
+* 不管工作是否有達成（可以領取懸賞）都可能發生衝突
 * 通常沒多少錢 (小於 500 美元)
 * 無法提供持久的收入
 
 #### 案例探討
 
+* [Gitcoin](https://gitcoin.co/explorer)
 * [Bountysource](http://bountysource.com)
+* [Internet Bug Bounty](https://internetbugbounty.org/)
+* [Google Patch Rewards](https://www.google.com/about/appsecurity/patch-rewards/)
 * [GitHub Bug Bounty Program](https://bounty.github.com/)
+* [Status Open Bounty](https://openbounty.status.im/)
 
 ## 群眾募資 (一次性)
 
@@ -95,10 +101,12 @@
 #### 案例探討
 
 * [Dave Gandy + Font Awesome](https://www.kickstarter.com/projects/232193852/font-awesome-5)
-* [Michal Papis + Rvm (個人成果)](https://www.bountysource.com/teams/rvm/fundraiser)
-* [Andrew Godwin + Django (個人成果)](https://www.kickstarter.com/projects/andrewgodwin/schema-migrations-for-django)
-* [ribasushi + CPAN (個人成果)](https://www.tilt.com/tilts/year-of-ribasushi-help-him-focus-on-cpan-for-2016)
-* [RESTful WP-CLI](https://www.kickstarter.com/projects/danielbachhuber/a-more-restful-wp-cli)
+* [Michal Papis + Rvm (personal effort)](https://www.bountysource.com/teams/rvm/fundraiser)
+* [Andrew Godwin + Django (personal effort)](https://www.kickstarter.com/projects/andrewgodwin/schema-migrations-for-django)
+* [ribasushi + CPAN (personal effort)](https://www.tilt.com/tilts/year-of-ribasushi-help-him-focus-on-cpan-for-2016)
+* [RESTful WP-CLI](https://poststatus.com/kickstarter-open-source-project/)
+* [Monero Forum Funding System (FFS)](https://getmonero.org/forum-funding-system/)
+* [Dash Budget Proposal Tracker](https://dashvotetracker.com/)
 
 ## 群眾募資 (持續性)
 
@@ -107,21 +115,25 @@
 #### 優點
 
 * 限制條件少
-* 對個人來說也可以很容易合法的進行，例如通過[Patreon](https://patreon.com), [Salt](https://salt.bountysource.com/), [Gratipay](https://gratipay.com/), [OpenCollective](https://opencollective.com)
+* 對個人來說也可以很容易合法的進行，例如通過[Patreon](https://patreon.com), [Salt](https://salt.bountysource.com/), [Gratipay](https://gratipay.com/), [OpenCollective](https://opencollective.com), [Flattr](https://flattr.com/)
+
 
 #### 缺點
 
 * 很難獲得承諾的持續性捐贈 (這通常需要你或專案已經有一定的名聲)
 * 很難解釋持續性的捐贈能獲得什麼樣明確的回報或特權
 * 通常錢也不多 (一個月約 1 到 4 千美元)
+* 企業通常喜歡捐錢給群眾募資
 
 #### 案例探討
 
+* [Vue.js](https://www.patreon.com/evanyou)
 * [MochaJS](https://opencollective.com/mochajs)
 * [React-boilerplate](https://opencollective.com/react-boilerplate)
-* [jsbin](https://gratipay.com/jsbin/)
+* [GnuPG](https://www.gnupg.org/donate/index.html)
 * [Tom Christie + Django REST framework (personal effort)](https://fund.django-rest-framework.org/topics/funding/)
 * [Ruby Together](https://rubytogether.org)
+* [Clojurists Together](https://clojuriststogether.org)
 
 
 ## 賣書及周邊
